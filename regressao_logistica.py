@@ -290,9 +290,7 @@ balance_sum_sm
 sns.scatterplot(x="percentil_duration",y="mean_y",data=balance_sum_sm)
 balance_sum_sm
 
-
 # %%
-
 bank
 
 # %%
